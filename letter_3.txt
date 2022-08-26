@@ -1,0 +1,11 @@
+Dear [NAME],
+
+It's your birthday! Have a great day!
+
+All my love,
+
+Martin's Python code
+
+
+
+P.S. This is an automated message to test weather Martin's code is working, or it just sucks.
